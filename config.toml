@@ -18,7 +18,6 @@ taxonomies = [
     {name = "tags", rss = true},
     {name = "categories", rss = true},
 ]
-output_dir = "docs"
 
 [markdown]
 # Whether to do syntax highlighting
