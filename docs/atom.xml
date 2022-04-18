@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+	<title>Nosfill Page</title>
+	<subtitle>This is example.</subtitle>
+	<link href="https://nosfill.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://nosfill.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-04-16T00:00:00+00:00</updated>
+	<id>https://nosfill.github.io/atom.xml</id>
+	<entry xml:lang="ja">
+		<title>Rustで作るEcho サーバー その１</title>
+		<published>2022-04-16T00:00:00+00:00</published>
+		<updated>2022-04-16T00:00:00+00:00</updated>
+		<link href="https://nosfill.github.io/blog/RustでつくるEchoサーバー/part1/" type="text/html"/>
+		<id>https://nosfill.github.io/blog/RustでつくるEchoサーバー/part1/</id>
+		<content type="html">&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Testing.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="ja">
+		<title>Zolaでブログを始めました</title>
+		<published>2022-04-16T00:00:00+00:00</published>
+		<updated>2022-04-16T00:00:00+00:00</updated>
+		<link href="https://nosfill.github.io/blog/misc/20220416/" type="text/html"/>
+		<id>https://nosfill.github.io/blog/misc/20220416/</id>
+		<content type="html">&lt;p&gt;この記事に本文はありません&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;</content>
+	</entry>
+	<entry xml:lang="ja">
+		<title>実践バイナリ解析を読む：1章</title>
+		<published>2022-04-16T00:00:00+00:00</published>
+		<updated>2022-04-16T00:00:00+00:00</updated>
+		<link href="https://nosfill.github.io/blog/実践バイナリ解析を読む/part1/" type="text/html"/>
+		<id>https://nosfill.github.io/blog/実践バイナリ解析を読む/part1/</id>
+		<content type="html">&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;korehatesutodesu&quot;&gt;これはテストです&lt;&#x2F;h2&gt;
+</content>
+	</entry>
+</feed>

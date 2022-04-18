@@ -9,4 +9,55 @@
     <url>
         <loc>https://nosfill.github.io/blog/</loc>
     </url>
+    <url>
+        <loc>https://nosfill.github.io/blog/RustでつくるEchoサーバー/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/blog/RustでつくるEchoサーバー/part1/</loc>
+        <lastmod>2022-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/blog/misc/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/blog/misc/20220416/</loc>
+        <lastmod>2022-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/blog/実践バイナリ解析を読む/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/blog/実践バイナリ解析を読む/part1/</loc>
+        <lastmod>2022-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/categories/rustdezuo-ruecho-saba/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/categories/shi-jian-bainarijie-xi-wodu-mu/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/categories/za-ji/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/profile/publication/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/tags/analysis-binary/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/tags/blog/</loc>
+    </url>
+    <url>
+        <loc>https://nosfill.github.io/tags/rust/</loc>
+    </url>
 </urlset>
