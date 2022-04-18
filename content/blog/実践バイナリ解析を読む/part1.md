@@ -1,6 +1,7 @@
 +++
 title = "実践バイナリ解析を読む：1章"
 date = 2022-04-16
+draft = true
 
 [taxonomies]
 tags = ["analysis_binary"]
